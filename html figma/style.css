@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: #f6f6f6;
+}
+strong{
+    color:#22d4fd;
+}
+span{
+    background-color: #22d4fd;
+    color: #000000;
+    padding: 16px;
+    border-radius: 16px;
+}
